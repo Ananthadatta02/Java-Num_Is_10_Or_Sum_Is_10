@@ -1,5 +1,4 @@
 
-
 # Integers_10_Or_Sum_Is_10
 
 This is a simple Java program that checks two integers input by the user to determine if either of them is 10 or if their sum is 10. If any of these conditions is true, it calculates the sum and prints the square of that sum.
